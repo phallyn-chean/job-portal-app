@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750745497668",
+    "project_id": "job-portal-7807c",
+    "storage_bucket": "job-portal-7807c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750745497668:android:091594c5da6307abddcc11",
+        "android_client_info": {
+          "package_name": "com.example.job_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChswvPgHchccrPqamEidzZUTprl9agIZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
